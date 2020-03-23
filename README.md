@@ -8,3 +8,10 @@ This is a game that allows two parties to engage in a game of hangman. There wil
 • For some strange reason.. one client can be the executioner and both the server and remaining client take turns guessing. 
 
 The other game logic is up to the developers who may seek guidance from the PM.
+
+
+## run server
+>`$ python run.py --server NAME_OF_YOUR_SERVER`
+
+## run client
+>`$ python run.py --client NAME_OF_YOUR_CLIENT`
